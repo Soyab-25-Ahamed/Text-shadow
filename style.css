@@ -23,13 +23,6 @@ h2{
     margin:50px auto; 
     box-shadow: 2px 3px 4px 5px #1E1E21;   
 }
-h1:before{
-    content:"ALLAH";
-}
-h1:after{
-    content:"MOHAN";
-}
-
 
 
 
