@@ -23,7 +23,15 @@ h2{
     margin:50px auto; 
     box-shadow: 2px 3px 4px 5px #1E1E21;   
 }
-
+.button{
+    display: block;
+    text-decoration: none;
+}
+.content{
+    background-color:#ddd;
+    padding: 10px 30px;
+    margin: 705px;
+}
 
 
 
